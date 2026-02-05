@@ -11,3 +11,4 @@ First of all we work with VS Code.
 5. Pressing Initialize Repository will do all job! Let's "Commit" some changes we just got with message "Initialize". And then we press "Publish Branch" to make some magic.
 6. If you did not yet, it will ask you to log in into your Git account. Very easy. Just log in using Git or select your name of list if you did that before.
 7. Press publish again, and set name of your Repository. Select it as public or private as you want.
+8. Random stuff
