@@ -12,3 +12,4 @@ First of all we work with VS Code.
 6. If you did not yet, it will ask you to log in into your Git account. Very easy. Just log in using Git or select your name of list if you did that before.
 7. Press publish again, and set name of your Repository. Select it as public or private as you want.
 8. Random stuff
+9. Update incoming.
